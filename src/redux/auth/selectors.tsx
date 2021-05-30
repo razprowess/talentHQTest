@@ -1,0 +1,1 @@
+export const getLoginUser = (state:any)=> state.auth.user;

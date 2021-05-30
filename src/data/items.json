@@ -1,0 +1,5 @@
+
+{
+    "colors":["red", "blue","green","yellow","lightblue","grey"],
+    "shapes": ["oval","round","triangle","square","rectangle"]
+}

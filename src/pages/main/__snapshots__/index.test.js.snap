@@ -1,0 +1,664 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="content-wrapper"
+>
+  <h3
+    className="filtersTitle"
+  >
+    Filters
+  </h3>
+  <h4
+    className="shapesFilterTitle"
+  >
+    Shapes
+  </h4>
+  <div
+    className="shapes"
+  >
+    <div
+      className="shape-item shape-item-selected"
+      onClick={[Function]}
+    >
+      Oval
+    </div>
+    <div
+      className="shape-item shape-item-selected"
+      onClick={[Function]}
+    >
+      Round
+    </div>
+    <div
+      className="shape-item shape-item-selected"
+      onClick={[Function]}
+    >
+      Triangle
+    </div>
+    <div
+      className="shape-item shape-item-selected"
+      onClick={[Function]}
+    >
+      Square
+    </div>
+    <div
+      className="shape-item shape-item-selected"
+      onClick={[Function]}
+    >
+      Rectangle
+    </div>
+  </div>
+  <h4
+    className="colorsFilterTitle"
+  >
+    Colors
+  </h4>
+  <div
+    className="colors"
+  >
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "red",
+        }
+      }
+    />
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "blue",
+        }
+      }
+    />
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "green",
+        }
+      }
+    />
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "yellow",
+        }
+      }
+    />
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "lightblue",
+        }
+      }
+    />
+    <div
+      className="color-item color-item-selected"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "grey",
+        }
+      }
+    />
+  </div>
+  <h3>
+    <b>
+      All Items
+    </b>
+  </h3>
+  <div
+    className="items-grid"
+  >
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "red",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "green",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "yellow",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "lightblue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-oval"
+          style={
+            Object {
+              "backgroundColor": "grey",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "red",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "green",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "yellow",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "lightblue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-round"
+          style={
+            Object {
+              "backgroundColor": "grey",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid red",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid blue",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid green",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid yellow",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid lightblue",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-triangle"
+          style={
+            Object {
+              "backgroundColor": "",
+              "borderBottom": "100px solid grey",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "red",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "green",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "yellow",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "lightblue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-square"
+          style={
+            Object {
+              "backgroundColor": "grey",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "red",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "green",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "yellow",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "lightblue",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="card-container"
+    >
+       
+      <div
+        className="card"
+      >
+        <div
+          className="card-rectangle"
+          style={
+            Object {
+              "backgroundColor": "grey",
+              "borderBottom": "",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,41 @@
+.shapes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.shapesFilterTitle{
+    color:#3a86f7;
+    font-size: 18px;
+}
+
+.content-wrapper{
+    max-width: 1200px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin:0 auto;
+}
+
+.colors{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.colorsFilterTitle{
+    color:#3a86f7;
+    font-size: 18px;
+    margin-top: 64px;
+}
+
+.filtersTitle{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.items-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: auto;
+}

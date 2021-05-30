@@ -1,0 +1,27 @@
+.navbar{
+ box-shadow: 0 4px 4px rgba(0, 0, 0, 0.08);
+ padding:8px;
+ background-color: #fff;
+}
+
+.main{
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.left{
+align-self: center;
+}
+
+.right{
+    align-self: center;
+}
+
+.logout-link{
+    color: red;
+    text-decoration: none;
+}
